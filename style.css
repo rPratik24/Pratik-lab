@@ -1,0 +1,53 @@
+/* Body style */
+body {
+    background-color: #f8f9fa; /* A light gray background for better readability */
+    color: #333; /* Darker text for contrast */
+    font-family: 'Arial', sans-serif; /* A clean, modern font */
+}
+
+/* Navigation bar */
+.navbar {
+    background-color: #007bff; /* A nice shade of blue */
+}
+
+.nav-link {
+    color: white; /* White text for nav links */
+}
+
+.nav-link:hover {
+    color: #ffc107; /* Change color on hover */
+}
+
+/* Main content */
+.container {
+    padding-top: 20px; /* Add some spacing on the top */
+}
+
+/* Footer */
+footer {
+    background-color: #343a40; /* Dark background for the footer */
+    color: white; /* White text color */
+    padding: 20px 0; /* Padding for top and bottom */
+    margin-top: 30px; /* Space above the footer */
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #007bff; /* Blue background for primary buttons */
+    border-color: #007bff; /* Blue border for primary buttons */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6 {
+    color: #212529; /* Dark grey color for headings */
+}
+
+p {
+    line-height: 1.5; /* Improved line spacing for readability */
+}
+
+/* Additional custom styles can be added below */
